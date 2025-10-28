@@ -10,10 +10,12 @@ redirect_from:
 Dr. Yian WEI is currently an Assistant Professor in Engineering Management at City University of Hong Kong (Dongguan). His research focuses on reliability-centered decision-making for engineered systems， and resilience engineering. His current and future work primarily covers four research streams:
       
 
-*Maintenance policy optimization for generic systems under limited inspection and maintenance resources</li>
-*Integrated maintenance and system-specific joint decision-making for mission-critical and production systems</li>
-*Service reliability modeling and maintenance policy optimization for self-service systems</li>
-*Resilience modeling and optimization for engineered networks</li>
+<ul>
+      <li>Maintenance policy optimization for generic systems under limited inspection and maintenance resources</li>
+      <li>Integrated maintenance and system-specific joint decision-making for mission-critical and production systems</li>
+      <li>Service reliability modeling and maintenance policy optimization for self-service systems</li>
+      <li>Resilience modeling and optimization for engineered networks</li>
+</ul>
 
 Dr. WEI has published, as first author, a series of peer-reviewed papers in leading journals in reliability and industrial engineering, including <em>IISE Transactions</em>, <em>Risk Analysis</em>, <em>Naval Research Logistics</em>, and <em>Reliability Engineering &amp; System Safety</em>.
    
