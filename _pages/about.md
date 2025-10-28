@@ -1,13 +1,33 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Summary"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Dr. Yian WEI is currently an Assistant Professor in Engineering Management at City University of Hong Kong (Dongguan). His research focuses on reliability-centered decision-making for engineered systems， and resilience engineering. His current and future work primarily covers four research streams:
+      
+
+*Maintenance policy optimization for generic systems under limited inspection and maintenance resources</li>
+*Integrated maintenance and system-specific joint decision-making for mission-critical and production systems</li>
+*Service reliability modeling and maintenance policy optimization for self-service systems</li>
+*Resilience modeling and optimization for engineered networks</li>
+
+Dr. WEI has published, as first author, a series of peer-reviewed papers in leading journals in reliability and industrial engineering, including <em>IISE Transactions</em>, <em>Risk Analysis</em>, <em>Naval Research Logistics</em>, and <em>Reliability Engineering &amp; System Safety</em>.
+   
+Experience
+======
+<ul>
+      <li><time datetime="2025-10">Oct 2025</time>–present: Assistant Professor, City University of Hong Kong (Dongguan)</li>
+      <li><time datetime="2024-10">Oct 2024</time>–<time datetime="2025-10">Oct 2025</time>: Postdoctoral Fellow, The University of Hong Kong</li>
+      <li><time datetime="2020-09">Sep 2020</time>–<time datetime="2024-10">Oct 2024</time>: Ph.D., The University of Hong Kong</li>
+      <li><time datetime="2017-09">Sep 2017</time>–<time datetime="2020-01">Jan 2020</time>: M.Sc. in Mechanical Engineering, Beihang University</li>
+      <li><time datetime="2013-09">Sep 2013</time>–<time datetime="2017-07">Jul 2017</time>: B.Eng. in Mechanical Engineering, Beihang University</li>
+</ul>
+
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
