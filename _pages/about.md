@@ -33,12 +33,40 @@ Please send your CV to <a href="mailto:yian.wei@cityu-dg.edu.cn">yian.wei@cityu-
 
    
 Experience
-======
-<ul>
-      <li><time datetime="2025-10">Oct 2025</time>–present: Assistant Professor, City University of Hong Kong (Dongguan)</li>
-      <li><time datetime="2024-10">Oct 2024</time>–<time datetime="2025-10">Oct 2025</time>: Postdoctoral Fellow, The University of Hong Kong</li>
-      <li><time datetime="2020-09">Sep 2020</time>–<time datetime="2024-10">Oct 2024</time>: Ph.D., The University of Hong Kong</li>
-      <li><time datetime="2017-09">Sep 2017</time>–<time datetime="2020-01">Jan 2020</time>: M.Sc. in Mechanical Engineering, Beihang University</li>
-      <li><time datetime="2013-09">Sep 2013</time>–<time datetime="2017-07">Jul 2017</time>: B.Eng. in Mechanical Engineering, Beihang University</li>
-</ul>
+=======
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>
+      <time datetime="2025-10">Oct 2025</time> – present: 
+      <strong>Assistant Professor</strong>, 
+      City University of Hong Kong (Dongguan)
+    </li>
+    <li>
+      <time datetime="2024-10">Oct 2024</time> – 
+      <time datetime="2025-10">Oct 2025</time>: 
+      <strong>Postdoctoral Fellow</strong>, 
+      The University of Hong Kong
+    </li>
+    <li>
+      <time datetime="2020-09">Sep 2020</time> – 
+      <time datetime="2024-10">Oct 2024</time>: 
+      <strong>Ph.D.</strong>, 
+      The University of Hong Kong<br>
+      Advisor: 
+      <a href="https://yaocheng-dase.github.io/" target="_blank">Prof. Yao Cheng</a> 
+      and 
+      <a href="#" title="Prof. George Q. Huang">Prof. George Q. Huang</a>
+    </li>
+    <li>
+      <time datetime="2017-09">Sep 2017</time> – 
+      <time datetime="2020-01">Jan 2020</time>: 
+      <strong>M.Sc.</strong> in Mechanical Engineering, 
+      Beihang University
+    </li>
+    <li>
+      <time datetime="2013-09">Sep 2013</time> – 
+      <time datetime="2017-07">Jul 2017</time>: 
+      <strong>B.Eng.</strong> in Mechanical Engineering, 
+      Beihang University
+    </li>
+  </ul>
 
