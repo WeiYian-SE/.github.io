@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  body {
+    text-align: justify;
+    text-justify: inter-word; 
+  }
+</style>
+
 Dr. Yian WEI is currently an Assistant Professor at City University of Hong Kong (Dongguan). His research focuses on reliability-centered decision-making for engineered systems, and resilience engineering. His current and future work primarily covers four research streams:
 
 <ul>
