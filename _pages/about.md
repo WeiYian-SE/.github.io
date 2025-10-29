@@ -54,7 +54,7 @@ Experience
       Advisor: 
       <a href="https://yaocheng-dase.github.io/" target="_blank">Prof. Yao Cheng</a> 
       and 
-      <a href="#" title="Prof. George Q. Huang">Prof. George Q. Huang</a>
+      <a href="https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/" title="Prof. George Q. Huang">Prof. George Q. Huang</a>
     </li>
     <li>
       <time datetime="2017-09">Sep 2017</time> – 
