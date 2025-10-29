@@ -16,7 +16,14 @@ Dr. Yian WEI is currently an Assistant Professor in Engineering Management at Ci
       <li>Resilience modeling and optimization for engineered networks</li>
 </ul>
 
-Dr. WEI has published, as first author, a series of peer-reviewed papers in leading journals in reliability and industrial engineering, including <em>IISE Transactions</em>, <em>Risk Analysis</em>, <em>Naval Research Logistics</em>, and <em>Reliability Engineering &amp; System Safety</em>.
+Recruitment
+======
+
+Dr. WEI is currently recruiting <strong>motivated and qualified candidates</strong> for both <strong>Ph.D.</strong> and <strong>Research Assistant (RA)</strong> positions. It would be advantageous if the applicant has research publications and/or a master’s degree specializing in mathematics, computer science, industrial engineering, mechanical engineering, or other related areas.
+
+Please send your CV to <a href="mailto:yian.wei@cityu-dg.edu.cn">yian.wei@cityu-dg.edu.cn</a>.
+
+
    
 Experience
 ======
