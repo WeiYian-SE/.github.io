@@ -19,7 +19,7 @@ Dr. Yian WEI is currently an Assistant Professor at City University of Hong Kong
 Recruitment
 ======
 
-Dr. WEI is currently recruiting <strong>motivated and qualified candidates</strong> for both <strong>Ph.D.</strong> and <strong>Research Assistant (RA)</strong> positions. It would be advantageous if the applicant has research publications and/or a master’s degree specializing in mathematics, computer science, industrial engineering, mechanical engineering, or other related areas.
+Dr. WEI is currently recruiting <strong>self-motivated candidates</strong> for both <strong>Ph.D.</strong> and <strong>Research Assistant (RA)</strong> positions. It would be advantageous if the applicant has research publications and/or a master’s degree specializing in mathematics, computer science, industrial engineering, mechanical engineering, or other related areas.
 
 Please send your CV to <a href="mailto:yian.wei@cityu-dg.edu.cn">yian.wei@cityu-dg.edu.cn</a>.
 
